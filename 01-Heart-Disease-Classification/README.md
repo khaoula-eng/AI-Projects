@@ -6,7 +6,6 @@ This project focuses on building a machine learning classification model to pred
 
 The goal of this project is to explore the dataset, understand the relationships between different health indicators, train classification models, and evaluate their performance using appropriate machine learning metrics.
 
-This project is part of my **Data Science Portfolio** and demonstrates my ability to work on a complete machine learning workflow, from data exploration to model evaluation.
 
 ---
 
